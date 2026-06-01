@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
     name="medical-chatbot",
-    version="0.1.0",
+    version="1.0.0",
     author="Ravi Kumar",
     author_email="ravikumarhbti@gmail.com",
     packages=find_packages(),
